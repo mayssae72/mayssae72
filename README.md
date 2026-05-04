@@ -115,11 +115,13 @@ me = MayssaeATIFI()
 
 ---
 
-## 🐍 My Contributions
+
+## 📈 My Contributions
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/mayssae72/mayssae72/output/github-contribution-grid-snake-dark.svg)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mayssae72&theme=tokyo-night&hide_border=true&area=true)
+
 </div>
 
 ---
