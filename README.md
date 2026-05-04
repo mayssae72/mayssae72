@@ -119,8 +119,7 @@ me = MayssaeATIFI()
 
 <div align="center">
 
-![Snake animation](https://github.com/mayssae72/mayssae72/blob/output/github-contribution-grid-snake-dark.svg)
-
+![Snake animation](https://raw.githubusercontent.com/mayssae72/mayssae72/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 ---
